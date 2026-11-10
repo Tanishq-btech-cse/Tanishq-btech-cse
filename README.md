@@ -71,8 +71,6 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Tanishq-btech-cse&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### ⏱️ Coding Metrics
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
