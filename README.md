@@ -28,11 +28,11 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
 
 <br clear="both"/> <!-- This ensures the Trophies and Tech Stack drop safely below the image -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Tanishq-btech-cse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Tanishq's Trophies" />
   </a>
-</p>
+</p> -->
 
 ### 🛠️ Tech Stack
 
@@ -57,8 +57,6 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
-
-### 💻 Featured Projects
 
 ### 💻 Featured Projects
 
