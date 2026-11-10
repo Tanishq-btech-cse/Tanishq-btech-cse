@@ -58,10 +58,10 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
 
 <p align="center">
   <a href="https://github.com/Tanishq-btech-cse/NexusHR-AI-Enabled-Enterprise-HR-and-Workforce-Intelligence-Platform">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Tanishq-btech-cse&repo=NexusHR-AI-Enabled-Enterprise-HR-and-Workforce-Intelligence-Platform&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="NexusHR" />
+    <img align="top" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Tanishq-btech-cse&repo=NexusHR-AI-Enabled-Enterprise-HR-and-Workforce-Intelligence-Platform&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="NexusHR" />
   </a>
   <a href="https://github.com/Tanishq-btech-cse/UpskillCampus-BankAccountManagementSystem">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Tanishq-btech-cse&repo=UpskillCampus-BankAccountManagementSystem&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="Bank Account Management System" />
+    <img align="top" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Tanishq-btech-cse&repo=UpskillCampus-BankAccountManagementSystem&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="Bank Account Management System" />
   </a>
 </p>
 
