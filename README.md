@@ -7,9 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20Software%20Engineer;Building%20scalable%20microservices%20with%20Java%2C%20Spring%20Boot%2C%20%26%20React" alt="Typing headlines" />
 </p>
-### 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanishq-btech-cse&color=2ea043&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tanishq-mathpal-618427328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mathpaltanishq@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -20,13 +23,13 @@
 
 Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passionate about building scalable microservices, integrating AI, and optimizing hardware.
 
-🔭 &nbsp;I'm currently working on **AI-enabled enterprise platforms like NexusHR, CMS, etc**  
-🌱 &nbsp;I'm currently learning **AI agents, Spring AI frameworks, Docker and Kubernetes orchestration**  
-👯 &nbsp;I'm looking to collaborate on **Full-stack web applications and AI-driven hackathon projects**  
-🤔 &nbsp;I'm looking for help with **Advanced Kubernetes deployment strategies**  
-💬 &nbsp;Ask me about **Java, Spring Boot, React, REST API design, and Docker**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **When I'm not writing backend services, I'm usually tweaking tactical formations in eFootball or modifying custom PC hardware thermals**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" /> &nbsp;I'm currently working on **AI-enabled enterprise platforms like NexusHR, CMS, etc**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plant/Seedling.png" alt="Seedling" width="25" /> &nbsp;I'm currently learning **AI agents, Spring AI frameworks, Docker and Kubernetes orchestration**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" /> &nbsp;I'm looking to collaborate on **Full-stack web applications and AI-driven hackathon projects**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" /> &nbsp;I'm looking for help with **Advanced Kubernetes deployment strategies**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" /> &nbsp;Ask me about **Java, Spring Boot, React, REST API design, and Docker**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face" width="25" /> &nbsp;Pronouns: **he/him**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" /> &nbsp;Fun fact: **When I'm not writing backend services, I'm usually tweaking tactical formations in eFootball or modifying custom PC hardware thermals**
 
 <br clear="both"/> <!-- This ensures the Trophies and Tech Stack drop safely below the image -->
 
@@ -78,10 +81,14 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Tanishq-btech-cse&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### 🐍 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Tanishq-btech-cse&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-btech-cse/Tanishq-btech-cse/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-btech-cse/Tanishq-btech-cse/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanishq-btech-cse/Tanishq-btech-cse/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ### 💭 Dev Quote
