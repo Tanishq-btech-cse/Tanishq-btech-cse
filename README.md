@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20Software%20Engineer;Building%20scalable%20microservices%20with%20Java%2C%20Spring%20Boot%2C%20%26%20React" alt="Typing headlines" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanishq-btech-cse&color=2ea043&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ### 🚀 About Me
 
 <img src="https://github.com/user-attachments/assets/308ddad7-e432-4299-bab4-41db5ce23f6a" alt="Tanishq Mathpal" width="115" align="right" style="border-radius: 50%; border: 2px solid #2ea043; margin-left: 20px; margin-bottom: 20px;" />
@@ -57,8 +61,8 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
 ### 💻 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Tanishq-btech-cse/NexusHR-AI-Enabled-Enterprise-HR-and-Workforce-Intelligence-Platform">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Tanishq-btech-cse&repo=NexusHR-AI-Enabled-Enterprise-HR-and-Workforce-Intelligence-Platform&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="NexusHR" />
+  <a href="https://github.com/Tanishq-btech-cse/UpskillCampus-BankAccountManagementSystem">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Tanishq-btech-cse&repo=UpskillCampus-BankAccountManagementSystem&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="Bank Account Management System" />
   </a>
 </p>
 
