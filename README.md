@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-<img src="https://github.com/user-attachments/assets/308ddad7-e432-4299-bab4-41db5ce23f6a" alt="Tanishq Mathpal" width="150" align="right" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/308ddad7-e432-4299-bab4-41db5ce23f6a" alt="Tanishq Mathpal" width="115" align="right" style="border-radius: 50%; border: 2px solid #2ea043; margin-left: 20px; margin-bottom: 20px;" />
 
 Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passionate about building scalable microservices, integrating AI, and optimizing hardware.
 
