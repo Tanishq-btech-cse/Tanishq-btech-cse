@@ -20,7 +20,7 @@
 Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passionate about building scalable microservices, integrating AI, and optimizing hardware.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" /> &nbsp;I'm currently working on **AI-enabled enterprise platforms like NexusHR, CMS, etc**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plant/Seedling.png" alt="Seedling" width="25" /> &nbsp;I'm currently learning **AI agents, Spring AI frameworks, Docker and Kubernetes orchestration**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> &nbsp;I'm currently learning **AI agents, Spring AI frameworks, Docker and Kubernetes orchestration**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" /> &nbsp;I'm looking to collaborate on **Full-stack web applications and AI-driven hackathon projects**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" /> &nbsp;I'm looking for help with **Advanced Kubernetes deployment strategies**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" /> &nbsp;Ask me about **Java, Spring Boot, React, REST API design, and Docker**  
