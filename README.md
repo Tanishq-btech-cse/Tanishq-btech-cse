@@ -29,12 +29,6 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
 
 <br clear="both"/> <!-- This ensures the Trophies and Tech Stack drop safely below the image -->
 
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tanishq-btech-cse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Tanishq's Trophies" />
-  </a>
-</p> -->
-
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -76,6 +70,11 @@ Full-Stack Software Engineer specializing in Java, Spring Boot, and React. Passi
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Tanishq-btech-cse&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Tanishq-btech-cse&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+### ⏱️ Coding Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🐍 Contribution Activity
 
